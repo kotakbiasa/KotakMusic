@@ -84,7 +84,7 @@ admin_38 : "» Menambahkan 1 upvote."
 admin_39 : "» Menghapus 1 upvote."
 admin_40 : "Di-upvote."
 
-start_1: "{0} hidup, sayang.\n\n<b>✫ Uptime:</b> {1}"
+start_1: "{0} hidup, hai.\n\n<b>✫ Uptime:</b> {1}"
 start_2: "<b>Hai</b> {0}, 🥀\n\n🪶 Ini adalah {1}!\n\n➻ Sebuah bot pemutar musik Telegram cepat & powerful dengan beberapa fitur keren.\n\n<b><u>Platform Dukungan:</b></u> YouTube, Spotify, Reso, Apple Music, dan SoundCloud.\n──────────────────\n<b>Klik tombol bantuan di bawah ini untuk informasi tentang modul dan perintah saya.</b>"
 start_3: "Hey {0},\nIni adalah {1}\n\nTerima kasih telah menambahkan saya ke {2}, {3} sekarang bisa memutar lagu di obrolan ini."
 start_4: "🎄 <b>Supergrup Diperlukan</b> 🎄\n\nHarap ubah <b>grup</b> Anda menjadi <b>supergrup</b> dan tambahkan saya lagi.\n\n<b>Cara membuat supergrup?</b>\n- Buat riwayat obrolan grup Anda <b>terlihat</b> sekali."
